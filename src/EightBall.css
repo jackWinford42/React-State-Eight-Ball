@@ -1,0 +1,53 @@
+.black {
+    height: 300px;
+    width: 300px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: black;
+}
+
+.green {
+    height: 300px;
+    width: 300px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: green;
+}
+
+.goldenrod {
+    height: 300px;
+    width: 300px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: goldenrod;
+}
+
+.red {
+    height: 300px;
+    width: 300px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: red;
+}
+
+/* .EightBall {
+    height: 300px;
+    width: 300px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+} */
+
+h4 {
+    padding-top: 120px;
+    color: white;
+    text-align: center;
+}
+
+.red:hover, .goldenrod:hover, .green:hover, .black:hover {
+    cursor: pointer;
+}
